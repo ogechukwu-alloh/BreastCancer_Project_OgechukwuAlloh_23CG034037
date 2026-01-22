@@ -20,4 +20,4 @@ GitHub Repository Link:
 https://github.com/ogechukwu-alloh/BreastCancer_Project_OgechukwuAlloh_23CG034037
 
 Live Hosted Application URL:
-
+https://breastcancerprojectogechukwualloh.streamlit.app/

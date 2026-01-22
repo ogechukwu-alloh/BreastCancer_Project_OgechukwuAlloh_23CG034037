@@ -1,7 +1,3 @@
-"""
-Breast Cancer Classification System
-Educational Use Only
-"""
 
 import streamlit as st
 import numpy as np
