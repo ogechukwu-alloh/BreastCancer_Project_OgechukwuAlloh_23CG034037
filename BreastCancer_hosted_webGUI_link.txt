@@ -1,0 +1,23 @@
+Name: Ogechukwu Alloh
+Matric Number: 23CG034037
+
+Project: Breast Cancer Classification System
+Status: Complete and Deployment-Ready
+
+Machine Learning Algorithm Used:
+Support Vector Machine (Linear Kernel)
+
+Model Persistence Method Used:
+Joblib
+
+Training Environment:
+Google Colab
+
+Web Framework / GUI:
+Streamlit
+
+GitHub Repository Link:
+https://github.com/ogechukwu-alloh/BreastCancer_Project_OgechukwuAlloh_23CG034037
+
+Live Hosted Application URL:
+
